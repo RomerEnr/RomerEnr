@@ -26,8 +26,7 @@ with me here:
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-4285F4?logo=microsoft%20azure&logoColor=white&style=flat)
 
 ## ⚡ Certifications:
-<img alt="Az-104" height="100" src="https://ci3.googleusercontent.com/proxy/ia7Wzg8_f2kxhHFV0ecC_rfIpvkFP_feMTM6FM7tbGC5mka59igqwU4t-YRHhsi1VYYQP-aVwHkb9Hl1egq4x2fhc-PmxGQcCZJlArdd-cOgjvWfDXkevCIpuHkEw3jtwqGvuMVBLVAsjYRWi7H_NaAvNCZ36VC9HOLDhipkztD6EA=s0-d-e1-ft#https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="100"/>
-<img alt="Az-104" height="100" src="https://ci4.googleusercontent.com/proxy/2Tc8oQ_OtOTvhzvT1j_y9z7BcofX5aS20JIL2zMFX1GE2lujfaeuMvfxC9blk7oUIQKOHU02OrIH24_RRBbTZOiLBRag6AH8X_ISFWGb0-29urq4CZhZkP0nczC8vXdKUUPOGDY7hcezFT5K6m2MTEMetP8YMoQ3PPENdgQOvXkH74Nv0raZJWabRk0=s0-d-e1-ft#https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="100"/>
+<img alt="Az-104" height="100" src="https://ci3.googleusercontent.com/proxy/ia7Wzg8_f2kxhHFV0ecC_rfIpvkFP_feMTM6FM7tbGC5mka59igqwU4t-YRHhsi1VYYQP-aVwHkb9Hl1egq4x2fhc-PmxGQcCZJlArdd-cOgjvWfDXkevCIpuHkEw3jtwqGvuMVBLVAsjYRWi7H_NaAvNCZ36VC9HOLDhipkztD6EA=s0-d-e1-ft#https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="100"/> <img alt="Az-104" height="100" src="https://ci4.googleusercontent.com/proxy/2Tc8oQ_OtOTvhzvT1j_y9z7BcofX5aS20JIL2zMFX1GE2lujfaeuMvfxC9blk7oUIQKOHU02OrIH24_RRBbTZOiLBRag6AH8X_ISFWGb0-29urq4CZhZkP0nczC8vXdKUUPOGDY7hcezFT5K6m2MTEMetP8YMoQ3PPENdgQOvXkH74Nv0raZJWabRk0=s0-d-e1-ft#https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="100"/>
 
 ## About me:
 
