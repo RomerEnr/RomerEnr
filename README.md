@@ -28,6 +28,8 @@ with me here:
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=black&style=flat)
 ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
 
 
 ## ⚡ Certifications:
