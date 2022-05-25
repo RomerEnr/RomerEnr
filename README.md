@@ -10,7 +10,6 @@ with me here:
 
 ## ⚡ Expertise:
 ![Java](https://img.shields.io/badge/-java-white?logo=java&logoColor=black&Style=flat)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&Style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&Style=flat)
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white&Style=flat)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-4285F4?logo=microsoft%20azure&logoColor=white&style=flat)
@@ -19,6 +18,7 @@ with me here:
 
 
 ## ⚡ I'm currently learning:
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&Style=flat)
 ![Python](https://img.shields.io/badge/-python-black?logo=python&logoColor=white&Style=flat)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat)
