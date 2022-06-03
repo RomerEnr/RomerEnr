@@ -1,4 +1,4 @@
-## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
+## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Romer, currently I'm focusing my carrer in DevOps field and Cloud technologies. 
 I am a tech enthusiast & passionate about cloud-based architectures.
