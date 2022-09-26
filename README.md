@@ -1,7 +1,7 @@
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Romer, currently I'm focusing my carrer in DevOps field and Cloud technologies. 
-I am a tech enthusiast & passionate about cloud-based architectures.
+I am Romer, I am a tech enthusiast & passionate about web development and system administration.  
+At this moment I am studying a System Administration grade at [IES Puerto de la Cruz](https://iespuertodelacruz.es/) and FullStack Bootcamp at [EOI](https://www.eoi.es/es).  
 Find out more about me & feel free to connect
 with me here:
 
@@ -9,31 +9,25 @@ with me here:
 [![Gmail Badge](https://img.shields.io/badge/-romer.alvarez.cloud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romer.alvarez.cloud@gmail.com)](mailto:romer.alvarez.cloud@gmail.com)
 
 ## ⚡ Expertise:
-![Java](https://img.shields.io/badge/-java-white?logo=java&logoColor=black&Style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&Style=flat)
-![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white&Style=flat)
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-4285F4?logo=microsoft%20azure&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
+<div style="display:flex; gap:30px; margin-bottom: 20px;">
+    <img src="./public/img/javascript.svg" width="100" height="100" style="border-radius: 30px;" alt="Javascript" title="Javascript">
+    <img src="./public/img/html-5.svg" width="100" height="100" style="border-radius: 0px;" alt="HTML5" title="HTML5">
+    <img src="./public/img/css-3.svg" width="100" height="100" style="border-radius: 0px;" alt="CSS3" title="CSS3">
+    <img src="./public/img/linux-tux.svg" width="100" height="100" style="border-radius: 0px;" alt="Linux" title="Linux">
+    <img src="./public/img/macOS.svg" width="100" height="100" style="border-radius: 30px; background: white; padding: 0px 5px;" alt="MacOS" title="MacOS">
+    <img src="./public/img/microsoft-azure.svg" width="100" height="100" style="border-radius: 30px;" alt="Microsoft Azure" title="Microsoft Azure">
+</div>
 
-
-## ⚡ I'm currently learning:
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&Style=flat)
-![Python](https://img.shields.io/badge/-python-black?logo=python&logoColor=white&Style=flat)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=black&style=flat)
-![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+<div style="display:flex; gap: 30px; margin-bottom: 20px;">
+    <img src="./public/img/mysql.svg" width="100" height="100" style="border-radius: 30px; background: white; padding: 0px 5px;" alt="MySQL" title="MySQL">
+    <img src="./public/img/mongodb.svg" width="100" height="100" style="border-radius: 20px; background: white; padding: 0px 4px;" alt="MongoDB" title="MongoDB">
+</div>
 
 
 
 ## ⚡ Certifications:
-<img alt="Az-104" height="100" src="https://ci3.googleusercontent.com/proxy/ia7Wzg8_f2kxhHFV0ecC_rfIpvkFP_feMTM6FM7tbGC5mka59igqwU4t-YRHhsi1VYYQP-aVwHkb9Hl1egq4x2fhc-PmxGQcCZJlArdd-cOgjvWfDXkevCIpuHkEw3jtwqGvuMVBLVAsjYRWi7H_NaAvNCZ36VC9HOLDhipkztD6EA=s0-d-e1-ft#https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="100"/> <img alt="Az-104" height="100" src="https://ci4.googleusercontent.com/proxy/2Tc8oQ_OtOTvhzvT1j_y9z7BcofX5aS20JIL2zMFX1GE2lujfaeuMvfxC9blk7oUIQKOHU02OrIH24_RRBbTZOiLBRag6AH8X_ISFWGb0-29urq4CZhZkP0nczC8vXdKUUPOGDY7hcezFT5K6m2MTEMetP8YMoQ3PPENdgQOvXkH74Nv0raZJWabRk0=s0-d-e1-ft#https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="100"/>
+<img alt="AZ-104" title="AZ-104" height="100" src="https://ci3.googleusercontent.com/proxy/ia7Wzg8_f2kxhHFV0ecC_rfIpvkFP_feMTM6FM7tbGC5mka59igqwU4t-YRHhsi1VYYQP-aVwHkb9Hl1egq4x2fhc-PmxGQcCZJlArdd-cOgjvWfDXkevCIpuHkEw3jtwqGvuMVBLVAsjYRWi7H_NaAvNCZ36VC9HOLDhipkztD6EA=s0-d-e1-ft#https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="100"/> <img alt="MS-700" title="MS-700" height="100" src="https://ci4.googleusercontent.com/proxy/2Tc8oQ_OtOTvhzvT1j_y9z7BcofX5aS20JIL2zMFX1GE2lujfaeuMvfxC9blk7oUIQKOHU02OrIH24_RRBbTZOiLBRag6AH8X_ISFWGb0-29urq4CZhZkP0nczC8vXdKUUPOGDY7hcezFT5K6m2MTEMetP8YMoQ3PPENdgQOvXkH74Nv0raZJWabRk0=s0-d-e1-ft#https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="100"/>
 
 ## About me:
 
