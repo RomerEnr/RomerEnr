@@ -4,7 +4,7 @@ Romer Alvarez Martinez <img src="https://raw.githubusercontent.com/aemmadi/aemma
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7930E&center=true&vCenter=true&width=435&lines=FullStack+Web+Developer;SysAdmin+Student" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="center">About Me</h2>
+<p style="font-size:26px;" align="center">About Me</p>
 
 <p align="center">
     I am Romer, I am a tech enthusiast & passionate about web development and system administration.  
@@ -20,7 +20,7 @@ Romer Alvarez Martinez <img src="https://raw.githubusercontent.com/aemmadi/aemma
 
 <br>
 
-<h2 align="center">🤓 Technologies</h2>
+<p style="font-size: 26px;" align="center">🤓 Technologies</p>
 <hr>
 <h3 align="center">⚡ Frontend</h3>
 
