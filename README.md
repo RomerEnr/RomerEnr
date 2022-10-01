@@ -8,9 +8,8 @@ with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-RomerEnr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romer-alvarez-martinez/)](https://www.linkedin.com/in/romer-alvarez-martinez/)
 [![Gmail Badge](https://img.shields.io/badge/-romer.alvarez.cloud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romer.alvarez.cloud@gmail.com)](mailto:romer.alvarez.cloud@gmail.com)
 
-### ⚡ Frontend
-
 <p align="center">
+    <h3 align="center"> ⚡ Frontend </h3>
     <img src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/-scss-CC6699?logo=sass&logoColor=white&style=for-the-badge">
@@ -21,6 +20,8 @@ with me here:
     <img src="https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge">
 </p>
+
+
 
 
 
