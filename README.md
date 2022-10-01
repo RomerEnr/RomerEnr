@@ -8,18 +8,23 @@ with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-RomerEnr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romer-alvarez-martinez/)](https://www.linkedin.com/in/romer-alvarez-martinez/)
 [![Gmail Badge](https://img.shields.io/badge/-romer.alvarez.cloud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romer.alvarez.cloud@gmail.com)](mailto:romer.alvarez.cloud@gmail.com)
 
-## ⚡ Expertise:
+### ⚡ Frontend
 
-<div style="display:flex; justify-content: center; align-items: center;  gap:30px; margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/-Javascript-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-</div>
+<p align="center">
+    <img src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-scss-CC6699?logo=sass&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-tailwind%20css-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-webcomponents-29ABE2?logo=webcomponents.org&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge">
+</p>
 
-<div style="display:flex; gap: 30px; margin-bottom: 20px;">
-    <img src="./public/img/mysql.svg" width="100" height="100" style="border-radius: 30px; background: white; padding: 0px 5px;" alt="MySQL" title="MySQL">
-    <img src="./public/img/mongodb.svg" width="100" height="100" style="border-radius: 20px; background: white; padding: 0px 4px;" alt="MongoDB" title="MongoDB">
-</div>
+
+
+
 
 
 
