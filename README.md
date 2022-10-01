@@ -18,8 +18,6 @@ Romer Alvarez Martinez <img src="https://raw.githubusercontent.com/aemmadi/aemma
     <a href="https://www.linkedin.com/in/romer-alvarez-martinez/"><img src="https://img.shields.io/badge/-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<br>
-
 <h3 style="font-size: 26px;" align="center">🤓 Technologies</h3>
 <hr>
 <h3 align="center">⚡ Frontend</h3>
