@@ -10,13 +10,10 @@ with me here:
 
 ## ⚡ Expertise:
 
-<div style="display:flex; gap:30px; margin-bottom: 20px;">
-    <img src="./public/img/javascript.svg" width="100" height="100" style="border-radius: 30px;" alt="Javascript" title="Javascript">
-    <img src="./public/img/html-5.svg" width="100" height="100" style="border-radius: 0px;" alt="HTML5" title="HTML5">
-    <img src="./public/img/css-3.svg" width="100" height="100" style="border-radius: 0px;" alt="CSS3" title="CSS3">
-    <img src="./public/img/linux-tux.svg" width="100" height="100" style="border-radius: 0px;" alt="Linux" title="Linux">
-    <img src="./public/img/macOS.svg" width="100" height="100" style="border-radius: 30px; background: white; padding: 0px 5px;" alt="MacOS" title="MacOS">
-    <img src="./public/img/microsoft-azure.svg" width="100" height="100" style="border-radius: 30px;" alt="Microsoft Azure" title="Microsoft Azure">
+<div style="display:flex; justify-content: center; align-items: center;  gap:30px; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Javascript-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </div>
 
 <div style="display:flex; gap: 30px; margin-bottom: 20px;">
