@@ -14,8 +14,8 @@ Romer Alvarez Martinez <img src="https://raw.githubusercontent.com/aemmadi/aemma
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/romer-alvarez-martinez/"><img src="https://img.shields.io/badge/-Contact-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-    <a href="https://www.linkedin.com/in/romer-alvarez-martinez/"><img src="https://img.shields.io/badge/-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
+   <a target="_blank" href="https://www.linkedin.com/in/romer-alvarez-martinez/"><img src="https://img.shields.io/badge/-Contact-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/romer-alvarez-martinez/"><img src="https://img.shields.io/badge/-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
 <h3 style="font-size: 26px;" align="center">🤓 Technologies</h3>
