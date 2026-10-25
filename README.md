@@ -13,7 +13,7 @@ Romer Alvarez Martinez <img src="https://raw.githubusercontent.com/aemmadi/aemma
     <br>
     Sono una persona creativa e mi diverto a cercare soluzioni eleganti in modo originale.
     <br>
-    Sono di Tenerife 🌴 e ora vivo in Italia 🇮🇹. Scopri di più su di me qui:
+    Sono di Tenerife 🌴. Scopri di più su di me qui:
 </p>
 
 <p align="center">
